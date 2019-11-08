@@ -1,0 +1,6 @@
+a= int(input ())
+if a >=3 and a<=5 :print ("春季")
+elif a >=6 and a<=8 :print ("夏季")
+elif a >=9 and a<=11 :print ("秋季")
+elif a ==12 or a==1 or a==2 :print ("冬季")
+else :print ("错误")
